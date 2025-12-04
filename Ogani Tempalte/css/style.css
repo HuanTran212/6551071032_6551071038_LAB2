@@ -129,7 +129,7 @@ ol {
 	right: 0;
 	height: 4px;
 	width: 80px;
-	background: #7fad39;
+	background: #d77d7d;
 	content: "";
 	margin: 0 auto;
 }
@@ -450,7 +450,7 @@ ol {
 }
 
 .header__menu ul li .header__menu__dropdown li:hover>a {
-	color: #7fad39;
+	color: #d77d7d;
 }
 
 .header__menu ul li .header__menu__dropdown li a {
@@ -461,7 +461,7 @@ ol {
 }
 
 .header__menu ul li.active a {
-	color: #7fad39;
+	color: #d77d7d;
 }
 
 .header__menu ul li:hover .header__menu__dropdown {
@@ -471,7 +471,7 @@ ol {
 }
 
 .header__menu ul li:hover>a {
-	color: #7fad39;
+	color: #d77d7d;
 }
 
 .header__menu ul li:last-child {
@@ -525,7 +525,7 @@ ol {
 .header__cart ul li a span {
 	height: 13px;
 	width: 13px;
-	background: #7fad39;
+	background: #d77d7d;
 	font-size: 10px;
 	color: #ffffff;
 	line-height: 13px;
@@ -701,7 +701,7 @@ ol {
 
 .hero__search__phone__icon {
 	font-size: 18px;
-	color: #7fad39;
+	color: #d77d7d;
 	height: 50px;
 	width: 50px;
 	background: #f5f5f5;
@@ -850,7 +850,7 @@ ol {
 	bottom: -2px;
 	width: 100%;
 	height: 2px;
-	background: #7fad39;
+	background: #d77d7d;
 	content: "";
 	opacity: 0;
 }
@@ -898,8 +898,8 @@ ol {
 }
 
 .featured__item__pic__hover li:hover a {
-	background: #7fad39;
-	border-color: #7fad39;
+	background: #d77d7d;
+	border-color: #d77d7d;
 }
 
 .featured__item__pic__hover li:hover a i {
@@ -1056,14 +1056,14 @@ ol {
 
 .breadcrumb__text h2 {
 	font-size: 46px;
-	color: #ffffff;
+	color: #857878;
 	font-weight: 700;
 }
 
 .breadcrumb__option a {
 	display: inline-block;
 	font-size: 16px;
-	color: #ffffff;
+	color: #857878;
 	font-weight: 700;
 	margin-right: 20px;
 	position: relative;
@@ -1075,14 +1075,14 @@ ol {
 	top: 13px;
 	height: 1px;
 	width: 10px;
-	background: #ffffff;
+	background: #ffffff;	
 	content: "";
 }
 
 .breadcrumb__option span {
 	display: inline-block;
 	font-size: 16px;
-	color: #ffffff;
+	color: #857878;
 }
 
 /*---------------------
@@ -1334,8 +1334,8 @@ ol {
 }
 
 .product__item__pic__hover li:hover a {
-	background: #7fad39;
-	border-color: #7fad39;
+	background: #d77d7d;
+	border-color: #d77d7d;
 }
 
 .product__item__pic__hover li:hover a i {
@@ -1533,7 +1533,7 @@ ol {
 }
 
 .filter__option span:hover {
-	color: #7fad39;
+	color: #d77d7d;
 }
 
 .product__item {
@@ -1574,8 +1574,8 @@ ol {
 }
 
 .product__item__pic__hover li:hover a {
-	background: #7fad39;
-	border-color: #7fad39;
+	background: #d77d7d;
+	border-color: #d77d7d;
 }
 
 .product__item__pic__hover li:hover a i {
@@ -1655,8 +1655,8 @@ ol {
 
 .product__pagination a:hover,
 .blog__pagination a:hover {
-	background: #7fad39;
-	border-color: #7fad39;
+	background: #d77d7d;
+	border-color: #d77d7d;
 	color: #ffffff;
 }
 
@@ -2164,8 +2164,8 @@ ol {
 }
 
 .checkout__input__checkbox label input:checked~.checkmark {
-	background: #7fad39;
-	border-color: #7fad39;
+	background: #d77d7d;
+	border-color: #d77d7d;
 }
 
 .checkout__input__checkbox label input:checked~.checkmark:after {
@@ -2393,7 +2393,7 @@ ol {
 }
 
 .blog__sidebar__item ul li a:hover {
-	color: #7fad39;
+	color: #d77d7d;
 }
 
 .blog__sidebar__search {
@@ -2620,7 +2620,7 @@ ol {
 }
 
 .blog__details__widget .blog__details__social a:hover {
-	color: #7fad39;
+	color: #d77d7d;
 }
 
 .blog__details__widget .blog__details__social a:last-child {
@@ -2738,7 +2738,7 @@ ol {
 }
 
 .footer__widget .footer__widget__social a:hover {
-	background: #7fad39;
+	background: #d77d7d;
 	color: #ffffff;
 	border-color: #ffffff;
 }
@@ -2776,7 +2776,7 @@ ol {
 
 .contact__widget span {
 	font-size: 36px;
-	color: #7fad39;
+	color: #d77d7d;
 }
 
 .contact__widget h4 {
@@ -2815,7 +2815,7 @@ ol {
 
 .map .map-inside i {
 	font-size: 48px;
-	color: #7fad39;
+	color: #d77d7d;
 	position: absolute;
 	bottom: -75px;
 	left: 50%;
@@ -3072,7 +3072,7 @@ ol {
 	.humberger__menu__cart ul li a span {
 		height: 13px;
 		width: 13px;
-		background: #7fad39;
+		background: #d77d7d;
 		font-size: 10px;
 		color: #ffffff;
 		line-height: 13px;
@@ -3138,7 +3138,7 @@ ol {
 		-webkit-border-radius: 0;
 		border-radius: 0;
 		background: transparent;
-		color: #7fad39;
+		color: #d77d7d;
 	}
 	.humberger__menu__wrapper .slicknav_nav .slicknav_row,
 	.humberger__menu__wrapper .slicknav_nav a {
@@ -3330,7 +3330,7 @@ ol {
 	.humberger__menu__cart ul li a span {
 		height: 13px;
 		width: 13px;
-		background: #7fad39;
+		background: #d77d7d;
 		font-size: 10px;
 		color: #ffffff;
 		line-height: 13px;
@@ -3396,7 +3396,7 @@ ol {
 		-webkit-border-radius: 0;
 		border-radius: 0;
 		background: transparent;
-		color: #7fad39;
+		color: #d77d7d;
 	}
 	.humberger__menu__wrapper .slicknav_nav .slicknav_row,
 	.humberger__menu__wrapper .slicknav_nav a {
