@@ -136,7 +136,8 @@ ol {
 
 .set-bg {
 	background-repeat: no-repeat;
-	background-size: cover;
+	/* background-size: cover; */
+	background-size: contain;
 	background-position: top center;
 }
 
@@ -730,7 +731,7 @@ ol {
 	height: 431px;
 	display: flex;
 	align-items: center;
-	padding-left: 75px;
+	padding-left: 0px;
 }
 
 .hero__text span {
@@ -2435,6 +2436,7 @@ ol {
 .blog__sidebar__recent__item__pic {
 	float: left;
 	margin-right: 20px;
+	background-size: cover;
 }
 
 .blog__sidebar__recent__item__text {
@@ -2472,6 +2474,7 @@ ol {
 	height: 350px;
 	display: flex;
 	align-items: center;
+	background-size: cover;
 }
 
 .blog__details__hero__text {
@@ -2480,14 +2483,14 @@ ol {
 
 .blog__details__hero__text h2 {
 	font-size: 46px;
-	color: #ffffff;
+	color: #000000;
 	font-weight: 700;
 	margin-bottom: 10px;
 }
 
 .blog__details__hero__text ul li {
 	font-size: 16px;
-	color: #ffffff;
+	color: #000000;
 	list-style: none;
 	display: inline-block;
 	margin-right: 45px;
