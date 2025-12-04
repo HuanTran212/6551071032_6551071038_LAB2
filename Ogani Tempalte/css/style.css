@@ -168,7 +168,7 @@ ol {
 	color: #ffffff;
 	text-transform: uppercase;
 	font-weight: 700;
-	background: #7fad39;
+	background: #d77d7d;
 	letter-spacing: 2px;
 }
 
@@ -179,7 +179,7 @@ ol {
 	text-transform: uppercase;
 	display: inline-block;
 	padding: 13px 30px 12px;
-	background: #7fad39;
+	background: #d77d7d;
 	border: none;
 }
 
@@ -588,7 +588,7 @@ ol {
 }
 
 .hero__categories__all {
-	background: #7fad39;
+	background: #d77d7d;
 	position: relative;
 	padding: 10px 25px 10px 40px;
 	cursor: pointer;
@@ -731,20 +731,29 @@ ol {
 	height: 431px;
 	display: flex;
 	align-items: center;
-	padding-left: 0px;
+	padding-left: 130px;
+	/* background-color: linear-gradient(to right, rgba(249, 205, 205, 1), rgba(249, 205, 205, 0)); */
+	/* background: rgba(249, 205, 205, 0.4); */
+	background-color: #f9cdcd;
+
+}
+
+.hero__item.set-bg{
+	background-size: contain;
+	background-position: top right;
 }
 
 .hero__text span {
 	font-size: 14px;
 	text-transform: uppercase;
-	font-weight: 700;
+	font-weight: 900;
 	letter-spacing: 4px;
-	color: #7fad39;
+	color: #ffffff;
 }
 
 .hero__text h2 {
 	font-size: 46px;
-	color: #252525;
+	color: #ffffff;
 	line-height: 52px;
 	font-weight: 700;
 	margin: 10px 0;
