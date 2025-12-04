@@ -2279,7 +2279,8 @@ ol {
 }
 
 .blog__item__pic img {
-	min-width: 100%;
+	width: 370px;
+	height: 266px;
 }
 
 .blog__item__text {
@@ -2436,8 +2437,13 @@ ol {
 .blog__sidebar__recent__item__pic {
 	float: left;
 	margin-right: 20px;
-	background-size: cover;
 }
+
+.blog__sidebar__recent__item__pic img {
+	height: 70px;
+	width: 70px;
+}
+
 
 .blog__sidebar__recent__item__text {
 	overflow: hidden;
